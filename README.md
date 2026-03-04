@@ -40,7 +40,7 @@
 
 I build projects at the intersection of **game development** and **real-time graphics**: rendering, VR, interactive scenes, game prototypes/remasters, and university assignments with an emphasis on clean architecture and reproducible results.
 
-You can find my [CV pdf here](pdf/CV.pdf).
+You can find my [CV pdf here](pdf/cv-gamedev.pdf).
 
 Also you can find [C++ Udemy certificate here](pdf/beginning-cpp-programming.pdf)
 
